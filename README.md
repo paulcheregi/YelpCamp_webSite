@@ -3,6 +3,7 @@
 This website is designed for camping enthusiasts. Users can share their camping experiences by posting descriptions, images, locations, and, if applicable, pricing details. It also allows others to leave reviews. A map feature is included, which pins each campsite, giving visitors a clear idea of where it is located.
 
 Before the `Installation` I want to let you know that you can use the website link to see what it does without downloading anything.
+P.S.: It will take like 1 min to load the website.
 
 ## Used
 
